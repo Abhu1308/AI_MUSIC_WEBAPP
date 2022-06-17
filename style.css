@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(aqua,rgb(255, 106, 131));
+    font-family: 'Dancing Script', cursive;
+}
+
+#div_1 {
+        width:95%;
+        height: auto;
+        margin : 10px;
+        border-radius: 10px;
+        box-shadow: 4px 4px 30px #ffffff;
+}
+
+#h3_1 {
+    white-space: normal;
+}
+
+.h3_2 {
+    color: red;
+}
